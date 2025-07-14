@@ -11,8 +11,19 @@ Hi there! I'm Sonalika Sahoo, a recent Computer Science Engineering graduate wit
 
 🛠️ Technologies & Tools
 
-- Languages: HTML, CSS, JavaScript, C, C++, Python, Java, C#
-- Frameworks & Tools: Flask, Docker, Jenkins
+- Languages:
+  1. HTML
+  2. CSS
+  3. JavaScript
+  4. C
+  5. C++
+  6. Python
+  7. Java
+  8. C#
+- Frameworks & Tools:
+  1. Flask
+  2. Docker
+  3. Jenkins
 
 
 
