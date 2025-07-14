@@ -1,49 +1,51 @@
 # Frontend
 
-Hii There!!! I am SONALIKA..
+ 👩‍💻 Sonalika Sahoo
 
- 🎯 Frontend Learning Hub for Students
+🎓 Computer Science Graduate from KIIT University, Bhubaneswar  
+📍 Based in India | 💼 Aspiring Software Engineer | 🚀 Passionate about AI, DevOps, and Emerging Technologies
 
-Kickstart your front-end development journey with curated resources and hands-on projects!
+ 🌟 About Me
 
- 🚀 Learning Tracks
+Hi there! I'm Sonalika Sahoo, a recent Computer Science Engineering graduate with a strong foundation in software development, machine learning, and DevOps. I love building impactful tech solutions and exploring innovative ways to solve real-world problems. I recently completed a summer internship at **Akamai Technologies, Bangalore** as a Software Development Engineer in Test Intern, where I deepened my understanding of Docker and Jenkins.
 
-1. ✨ CSS Projects – Build stylish, responsive layouts.
-2. 🧠 JavaScript Concepts – Master the logic behind the web.
-3. ⚛️ ReactJS for Students – Create dynamic UIs with React.
-4. 🎨 Bootstrap for Students – Rapid design with Bootstrap.
-5. 🌐 NodeJS for Students – Dive into backend basics.
+🛠️ Technologies & Tools
 
-
-
- 📺 YouTube Playlists for Visual Learners
-
-Learn by watching! These playlists are packed with beginner-friendly tutorials:
-
-Coding Essentials: Watch Now
-Front End Basics: Watch Now
+- Languages: HTML, CSS, JavaScript, C, C++, Python, Java, C#
+- Frameworks & Tools: Flask, Docker, Jenkins
 
 
- 📚 Trusted References
 
-- JavaScript Algorithms & Data Structures – FreeCodeCamp
-- Responsive Web Design – FreeCodeCamp
+ 🚀 Projects
 
-📅 Book a 1-on-1 Session
+ 1. 🧬 Early Detection of Cancer
+Developed a machine learning model to assist in the early diagnosis of cancer using medical imaging and patient data. The system leverages classification algorithms to identify potential malignancies with high accuracy.
 
-Need personalized guidance or mentorship?  
-👉 Schedule a 30-min session on Calendly
+ 2. 🤖 Facial Recognition Using Quadcopter
+Integrated facial recognition technology with a quadcopter drone to enable autonomous identification and tracking of individuals. This project combined computer vision with embedded systems for real-time surveillance applications.
 
- 💼 Hire Me | Connect with Me
+ 3. 🔄 Automating CI/CD Pipelines with Docker & Jenkins
+Built and deployed a robust CI/CD pipeline using Docker containers and Jenkins automation. This project streamlined the software development lifecycle, enabling faster and more reliable deployments.
 
-Whether you're looking to collaborate, hire, or just stay in touch, here’s where you’ll find me:
+ 4. 🛰️ Satellite Detection Using Deep Learning
+Implemented deep learning algorithms to detect and classify satellite imagery. The model was trained on large datasets to identify features such as land use, vegetation, and urban development.
 
-- 🌐 Personal Website
-- 💻 GitHub
-- 🧑‍💼 Upwork Profile
-- 🛠️ Fiverr Services
-- 👨‍🏫 Codementor
-- 🧠 Stack Overflow
-- 🎥 Jay's Coding Channel on YouTube
-- ✍️ Medium Blog
+ 💼 Internship Experience
+
+Akamai Technologies, Bangalore 
+🗓️ June 2024 – August 2024 
+Role: Software Development Engineer in Test Intern  
+- Gained hands-on experience with Docker and Jenkins
+- Contributed to automation testing frameworks
+- Collaborated with cross-functional teams to improve deployment workflows
+
+ 📫 Let's Connect!
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
+
+- 📧 Email: [Sonalika.Sahoo2@cognizant.com]
+- 💼 LinkedIn: [your-linkedin-profile]
+
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
